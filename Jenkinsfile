@@ -39,7 +39,9 @@ pipeline {
                echo "Choice: ${params.CHOICE}"
                echo "Password: ${params.PASSWORD}"
                echo "trigger test"
-            }
+               echo "trigger test1"
+               echo "trigger test2"
+               }
          }
     }
 }

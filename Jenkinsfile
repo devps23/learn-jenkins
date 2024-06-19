@@ -39,6 +39,7 @@ pipeline {
                echo "Choice: ${params.CHOICE}"
                echo "trigger again"
                echo "trigger test"
+               echo "trigger test1"
                }
          }
     }

@@ -41,6 +41,7 @@ pipeline {
                echo "trigger test"
                echo "trigger test1"
                echo "trigger test2"
+               echo "trigger again"
                }
          }
     }

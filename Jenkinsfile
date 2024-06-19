@@ -37,7 +37,6 @@ pipeline {
                echo "Biography: ${params.BIOGRAPHY}"
                echo "Toggle: ${params.TOGGLE}"
                echo "Choice: ${params.CHOICE}"
-               echo "Password: ${params.PASSWORD}"
                echo "trigger test"
                echo "trigger test1"
                echo "trigger test2"

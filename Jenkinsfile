@@ -38,6 +38,7 @@ pipeline {
                echo "Toggle: ${params.TOGGLE}"
                echo "Choice: ${params.CHOICE}"
                echo "trigger again"
+               echo "trigger test"
                }
          }
     }
